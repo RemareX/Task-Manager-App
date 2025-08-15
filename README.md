@@ -27,11 +27,9 @@ Authentication: JSON Web Token (JWT)
 ⚙️ Installation & Setup
 
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/task-manager.git
-cd task-manager
 
 2️⃣ Backend Setup
-cd backend
+cd task_manager_api
 npm install
 
 
